@@ -1,0 +1,14 @@
+DESIGN GOAL:
+
+I improved my code from the previous season. In the previous season, I gave villagers roles so that every villager was doing something. In this season, I wanted them to change their behavior depending on the time
+of day.
+
+REFLECTION:
+
+To do this, I used behavioral blocks to give each villager a role. Since some villagers shared a role, it was easier to assign roles. In the previous seasons, I had to use time variables to make villagers
+change what they were doing after some time had passed. But with the time cycle, I replaced some of those time-based variables with the time cycle.
+
+AI DISCLOSURE:
+
+I used Claude Code extensively in this project. The coding agent helped modify my code. After every task it completed, I checked its work by reading its new code and by testing the agent by playing
+the game and looking for whether the changes were successful. Using the coding agent definitely helped with the assignment.
